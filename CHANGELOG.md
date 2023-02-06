@@ -1,3 +1,9 @@
+## 0.3.0 (2023-02-06)
+
+### Feat
+
+- added config creation command
+
 ## 0.2.0 (2023-02-06)
 
 ### Fix
