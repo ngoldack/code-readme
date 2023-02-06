@@ -1,3 +1,9 @@
+## 0.3.2 (2023-02-06)
+
+### Fix
+
+- github action to use personal access token
+
 ## 0.3.1 (2023-02-06)
 
 ### Fix
