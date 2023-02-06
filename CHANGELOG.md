@@ -1,3 +1,9 @@
+## 0.3.1 (2023-02-06)
+
+### Fix
+
+- fixed bump action run on itself
+
 ## 0.3.0 (2023-02-06)
 
 ### Feat
